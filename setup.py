@@ -32,7 +32,7 @@ setup(
         "datadog==0.39.0",
         "ddtrace==0.44.0",
         "wrapt==1.11.2",
-        "setuptools==42.0.2",
+        "setuptools==51.1.0",
     ],
     extras_require={
         "dev": ["nose2==0.9.1", "flake8==3.7.9", "requests==2.22.0", "boto3==1.10.33"]
